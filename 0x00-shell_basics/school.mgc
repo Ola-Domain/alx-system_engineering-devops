@@ -1,4 +1,2 @@
-@@ -1,2 +1 @@
-0 string SCHOOL data
-!:mime School
-0 search File containing "SCHOOL"
+#!/bin/bash
+mv ./[[:upper]]* /tmp/u
